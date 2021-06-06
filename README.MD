@@ -9,10 +9,10 @@ The map displays earthquakes, color coded by magnitude, and global tectonic plat
 Each data layer may also be toggled on and off allowing users to view earthquakes or tectonic plate data individually. 
 
 Example Output
-![US Earthquakes](US_earthquakes.png)
+![US Earthquakes](US_earthquakes.PNG)
 
 Satellite View
-![Satellite View](US_satellite.png)
+![Satellite View](US_satellite.PNG)
 
 Topographic View
-![Topographic View](topographic_example.png)
+![Topographic View](topographic_example.PNG)
